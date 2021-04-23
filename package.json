@@ -1,0 +1,24 @@
+{
+  "name": "ipl-dashboard-api",
+  "version": "1.0.0",
+  "description": "IPL Dashboard API using Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipl-dashboard-api"
+  ],
+  "author": "Vijayasankar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.5",
+    "npm": "^7.10.0"
+  }
+}
